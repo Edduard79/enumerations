@@ -2,7 +2,7 @@ public class Tester {
     public Tester(){
     }
     public enum Months{
-        January, February, March, April, May, June, July, August, September, October, November, December;
+        January, February, March, April, May, June, July, August, September, October, November, December
     }
 
     public static void main(String[] args){
@@ -15,10 +15,7 @@ public class Tester {
 
         }
 
-
-
-
-
+        
 
     }
 }
